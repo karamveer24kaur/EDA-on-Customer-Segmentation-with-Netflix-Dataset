@@ -37,7 +37,7 @@ The dataset includes the following columns:
 
 # Getting Started 
 
- - Clone the repository:
+ - Clone the repository
    
 git clone https://github.com/karamveer24kaur/EDA-on-Customer-Segmentation-with-Netflix-Dataset.git
 
