@@ -38,13 +38,17 @@ The dataset includes the following columns:
 # Getting Started 
 
  - Clone the repository:
+   
 git clone https://github.com/karamveer24kaur/EDA-on-Customer-Segmentation-with-Netflix-Dataset.git
+
 cd EDA-on-Customer-Segmentation-with-Netflix-Dataset
  
  - Install dependencies
+   
 pip install pandas numpy matplotlib seaborn
 
 - Open the Jupyter Notebook
+  
 jupyter notebook "EDA on Customer Segmentation with Netflix Dataset.ipynb"
 
 
